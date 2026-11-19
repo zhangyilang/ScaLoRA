@@ -1,5 +1,5 @@
 # ScaLoRA
-This repository provides codes for reproducing the results in our ICML 2026 paper [ScaLoRA: Optimally Scaled Low-Rank Adaptation for Efficient High-Rank Fine-Tuning](https://raw.githubusercontent.com/mlresearch/v306/main/assets/zhang26hi/zhang26hi.pdf).
+This repository provides codes for reproducing the results in our ICML 2026 paper [ScaLoRA: Optimally Scaled Low-Rank Adaptation for Efficient High-Rank Fine-Tuning](https://proceedings.mlr.press/v306/zhang26hi.html).
 
 ## Setup
 Install the ScaLoRA package in editable mode, together with the dependencies of the experiments:
