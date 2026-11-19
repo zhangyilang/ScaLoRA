@@ -43,7 +43,7 @@ test = [
 ]
 
 [project.urls]
-Paper = "https://openreview.net/forum?id=Skxb4UgTWU"
+Paper = "https://proceedings.mlr.press/v306/zhang26hi.html"
 
 [tool.setuptools.packages.find]
 include = ["scalora*"]

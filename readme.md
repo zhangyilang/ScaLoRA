@@ -1,5 +1,5 @@
 # ScaLoRA
-This repository provides codes for reproducing the results in our ICML 2026 paper [ScaLoRA: Optimally Scaled Low-Rank Adaptation for Efficient High-Rank Fine-Tuning](https://openreview.net/pdf?id=Skxb4UgTWU).
+This repository provides codes for reproducing the results in our ICML 2026 paper [ScaLoRA: Optimally Scaled Low-Rank Adaptation for Efficient High-Rank Fine-Tuning](https://raw.githubusercontent.com/mlresearch/v306/main/assets/zhang26hi/zhang26hi.pdf).
 
 ## Setup
 Install the ScaLoRA package in editable mode, together with the dependencies of the experiments:
@@ -84,11 +84,17 @@ Our implementation builds upon the following GitHub repositories.
 
 ## Citation
 If you find this work useful, please consider citing:
+> Y. Zhang, X. Yang, Y. Cai, and G. B. Giannakis, “ScaLoRA: Optimally Scaled Low-Rank Adaptation for Efficient High-Rank Fine-Tuning,” in *Proceedings of the 43rd International Conference on Machine Learning (ICML)*, 2026.
+
 ```tex
 @inproceedings{ScaLoRA,
- title = {ScaLoRA: Optimally Scaled Low-Rank Adaptation for Efficient High-Rank Fine-Tuning},
+ title = {{S}ca{L}o{RA}: Optimally Scaled Low-Rank Adaptation for Efficient High-Rank Fine-Tuning},
  author = {Zhang, Yilang and Yang, Xiaodong and Cai, Yiwei and Giannakis, Georgios B.},
- booktitle = {Proceedings of the International Conference on Machine Learning},
+ booktitle = {Proceedings of the 43rd International Conference on Machine Learning},
+ pages = {159735--159760},
+ publisher = {PMLR},
+ series = {Proceedings of Machine Learning Research},
+ volume = {306},
  year = {2026}
 }
 ```
